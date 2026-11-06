@@ -1,0 +1,1 @@
+# namamkulangara-devi-temple-memury
