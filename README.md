@@ -1,49 +1,39 @@
-# Namamkulangara Devi Temple — Homepage
+# 🪔 Namamkulangara Devi Temple, Memury
 
-A responsive temple website homepage built with **HTML, CSS and vanilla JavaScript**.
+Welcome to the official website of **Namamkulangara Devi Temple, Memury, Kerala**.
 
-## Run locally
-1. Extract the ZIP file.
-2. Open the `namamkulangara-temple-website` folder in VS Code.
-3. Open `index.html` in your browser, or use the VS Code Live Server extension.
+This website serves as a digital platform for devotees and visitors to explore information about the temple, learn about its offerings and festivals, find its location, and connect with the temple.
 
-No npm install or build step is required.
+## About the Temple
 
-## Files
-- `index.html` — page structure and content
-- `style.css` — responsive styling and visual design
-- `script.js` — mobile navigation, booking enquiry modal, reveal effects and active navigation
-- `assets/temple-photo.png` — the temple photo supplied in the conversation
-- `assets/design-reference.png` — generated visual design reference
+Namamkulangara Devi Temple is a place of devotion and worship. This website aims to make essential temple information easily accessible to devotees and visitors.
 
-## Before publishing
-- Confirm the temple's official address, timings, phone number, pooja list and festival dates.
-- Replace the demo enquiry form behavior with a real backend or an approved contact method.
-- Add official social links and any temple-approved photographs.
-- The form currently does **not** send a booking; it only displays an on-page demo message.
+## Website Features
 
+- **Temple Information** – Learn about the temple and its significance.
+- **Pooja & Offerings** – Explore pooja-related information and booking enquiries.
+- **E-Kanikka** – Access online offering and donation details.
+- **Temple Gallery** – View photographs of the temple.
+- **Festivals & Events** – Explore temple celebrations and related information.
+- **Location & Directions** – Find the temple through the integrated Google Map.
+- **Contact Information** – Connect with the temple.
+- **Social Media** – Access the temple's official Facebook and Instagram pages.
+- **Responsive Design** – Accessible across desktop, tablet and mobile devices.
 
-## New additions
-- Contact section includes a replaceable example number: `+91 XXXXX XXXXX`.
-- Book Pooja opens a Malayalam temple-contact message and the same example number.
-- A fixed E-Kanikka shortcut stays at the bottom-right while scrolling.
-- E-Kanikka opens a centered desktop overlay and a mobile-friendly stacked overlay.
-- The QR area currently uses `assets/e-kanikka-qr-placeholder.svg`.
+## Visit the Temple
 
-## Replace before launch
-1. Replace the example phone number in `index.html` in both the contact section and Book Pooja overlay. Update the `tel:` link too.
-2. Replace `assets/e-kanikka-qr-placeholder.svg` with the temple's official QR image, or update the `<img src>` in `index.html` to your QR filename.
-3. Update the bank name, account number, IFSC, branch and UPI ID in the E-Kanikka overlay in `index.html`.
-4. The displayed bank and UPI values are placeholders only. Do not accept payments until verified official details and the correct QR are added.
+**Namamkulangara Devi Temple**  
+Memury, Kerala, India.
 
+📍 [Find us on Google Maps](https://www.google.com/maps/search/?api=1&query=Namamkulangara+Devi+Temple)
 
-## Decorative PNG assets
-- `assets/kerala-temple-illustration.png` — supplied gold Kerala temple and coconut tree artwork, placed at the lower-left of the hero.
-- `assets/traditional-deepam.png` — supplied glowing deepam artwork, placed at the bottom-left of the hero.
-Both images are transparent PNGs and are positioned responsively to match the supplied reference.
+## Connect With Us
 
+- **Facebook:** [Namamkulangara Devi Temple](https://www.facebook.com/p/Namamkulangara-temple-100061385081229/)
+- **Instagram:** [@namamkulangara_devi_temple](https://www.instagram.com/namamkulangara_devi_temple)
 
-## Contact section additions
-- Official Facebook and Instagram links open in a new tab.
-- Responsive Google Maps embed points to Namamkulangara Devi Temple.
-- Social links and map are included in the existing Contact section.
+## Website Information
+
+This website is developed to provide devotees with convenient access to temple-related information and services.
+
+**Technologies Used:** HTML5, CSS3 and JavaScript.
