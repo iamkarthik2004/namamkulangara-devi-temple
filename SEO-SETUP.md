@@ -25,3 +25,9 @@
 - The site is currently a single-page website. The sitemap therefore contains only the homepage.
 - The page uses English as its document language. If a full Malayalam version is published at a separate URL, add a separate Malayalam page and correct `hreflang` annotations for both language versions.
 - Search ranking and indexing are controlled by Google; these changes improve crawlability and page understanding but cannot guarantee a first-page result.
+
+## Gallery and Mudiyettu content update
+- The main gallery now includes the available distinct temple artwork assets.
+- The Mudiyettu section includes a general cultural history and four clearly marked photo slots.
+- Replace the four photo slots with authentic photographs from Namamkulangara Devi Temple after the temple administration approves them. Do not label general stock photos as photographs of this temple.
+- Confirm any temple-specific Mudiyettu history, local customs, annual date and performer details with the temple administration before publishing.
